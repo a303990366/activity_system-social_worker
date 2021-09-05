@@ -8,7 +8,7 @@
 
 ## 三、	系統架構與模組介紹:
 
-<a href="https://ibb.co/njNwZ3f"><img src="https://i.ibb.co/njNwZ3f/qwe.png" alt="qwe" border="0"></a>
+<a href="https://ibb.co/njNwZ3f"><img src="https://i.ibb.co/YhFNYD8/qwe.png" alt="qwe" border="0"></a>
 
 ## 該系統內有三個模組:1.資料輸入模組2.圖表分析模組3.活動期程修改模組。接下來將一一介紹各模組功能:
 ## 1.	資料輸入模組:為了讓機構內工作人員能夠在紀錄活動內容時可以較為方便，所以撰寫了此模組，此模組可輸入內容為:日期、活動項目、參與人數、備註。此外，除了新增功能，還包含了修改、刪除功能，提供使用者更靈活的資料輸入方式。
