@@ -7,8 +7,8 @@
 ## 透過簡單的視覺化呈現，可以了解長者對於不同活動的參加意願，並且長期追蹤活動過程中是否有負面情緒的狀況產生。
 
 ## 三、	系統架構與模組介紹:
+<a href="https://ibb.co/kGQZJPR"><img src="https://i.ibb.co/vcZ9hM7/qweqwe.png" alt="qweqwe" border="0"></a>
 
-<a href="https://ibb.co/njNwZ3f"><img src="https://i.ibb.co/YhFNYD8/qwe.png" alt="qwe" border="0"></a>
 
 ## 該系統內有三個模組:1.資料輸入模組2.圖表分析模組3.活動期程修改模組。接下來將一一介紹各模組功能:
 ## 1.	資料輸入模組:為了讓機構內工作人員能夠在紀錄活動內容時可以較為方便，所以撰寫了此模組，此模組可輸入內容為:日期、活動項目、參與人數、備註。此外，除了新增功能，還包含了修改、刪除功能，提供使用者更靈活的資料輸入方式。
@@ -23,13 +23,14 @@
 ## 日期、活動項目，要一直重複鍵入，同時為因應常設活動內容的修改或是工作人員變動所造成的活動形式變換，提供彈性的修改期程方式。
 ## 四、	實際呈現:
 ## 1.資料輸入模組
-
-
+<a href="https://ibb.co/Hg072Fb"><img src="https://i.ibb.co/GPX7Jx8/qweqweasd.png" alt="qweqweasd" border="0"></a>
+<a href="https://ibb.co/VCvsWyN"><img src="https://i.ibb.co/dpQR09c/qweasdasd.png" alt="qweasdasd" border="0"></a>
 ## 2.圖表分析模組:
-
-
+<a href="https://ibb.co/v1G9Bkd"><img src="https://i.ibb.co/Mn4dh71/asdzxc.png" alt="asdzxc" border="0"></a>
+<a href="https://ibb.co/qnXGL15"><img src="https://i.ibb.co/0X8NpJt/ghjgh.png" alt="ghjgh" border="0"></a>
+<a href="https://ibb.co/nfJ3BdD"><img src="https://i.ibb.co/zbv8F9S/fghfgh.png" alt="fghfgh" border="0"></a>
 ## 3.活動期程修改模組
-
+<a href="https://ibb.co/njNwZ3f"><img src="https://i.ibb.co/YhFNYD8/qwe.png" alt="qwe" border="0"></a>
 
 
 ## 五、	結論與建議:
